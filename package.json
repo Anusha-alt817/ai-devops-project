@@ -1,0 +1,12 @@
+{
+  "name": "ai-backend",
+  "version": "1.0.0",
+  "description": "AI DevOps Project Backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
